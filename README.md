@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" width="30px"/>, I am Pintu Jat!
 ---
 I am a software Developer, I completed my post-graduation in Application Development from Lambton College in May 2020.
+Oracle Java certified associate with 1.5-year of experience as a software engineer at Atos Global and 8 Months internship at eSight corp and QuickTab.
 
 ---
 
